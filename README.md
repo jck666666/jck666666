@@ -24,7 +24,7 @@
 <a href="https://github.com/jck666666/Reversible-Logic-Circuit-Synthesis">利用知識導引之量子啟發式禁忌搜尋演算法解量子可逆電路合成問題</a></br>
 
 <h3>【課程 Project】</h3>
-深度學習概論：<a href="https://github.com/jck666666/Time-Series-Forecasting.git">預測臺灣covid-19累積確診人數、死亡人數、康復人數</a></br>
-網路安全：<a href="https://github.com/jck666666/S-DES">S-DES與視覺化介面 </a> </br>
-資料庫管理系統導論：<a href="https://github.com/jck666666/DBMS">好。食 </a> </br>
-組合語言與系統程式：<a href="https://github.com/jck666666/2-pass-assembler">2 PASS assembler </a></br>
+- 深度學習概論：<a href="https://github.com/jck666666/Time-Series-Forecasting.git">預測臺灣covid-19累積確診人數、死亡人數、康復人數</a></br>
+- 網路安全：<a href="https://github.com/jck666666/S-DES">S-DES與視覺化介面 </a> </br>
+- 資料庫管理系統導論：<a href="https://github.com/jck666666/DBMS">好。食 </a> </br>
+- 組合語言與系統程式：<a href="https://github.com/jck666666/2-pass-assembler">2 PASS assembler </a></br>

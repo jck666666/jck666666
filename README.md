@@ -34,3 +34,14 @@
 - 資訊安全：<a href="https://github.com/jck666666/Caesar-Cipher">Caesar Cipher </a></br>
 - 檔案處理與輸出入系統：<a href="https://github.com/jck666666/File-I-O-HW/tree/main/%22Find%20Instruction%22%20in%20LINUX">build the "Find Instruction" in LINUX </a></br>
 - 檔案處理與輸出入系統：<a href="https://github.com/jck666666/File-I-O-HW/tree/main/%22Read:Write%20Speed%22%20Test%20in%20LINUX">"Read/Write Speed" Test in LINUX</a></br>
+
+
+<h3> 【Omni-Objective Optimization Lab】</h3>
+<a href="https://github.com/jck666666/QTS/tree/main/DJIA%20QTS:GQTS">QTS & GQTS for DJIA  </a> </br>
+<a href="https://github.com/jck666666/QTS/tree/main/QTS%20SMA">QTS for SMA </a> </br>
+<a href="https://github.com/jck666666/QTS/tree/main/QTS%20knapsack">QTS for knapsack </a> </br>
+<a href="https://github.com/jck666666/QTS/tree/main/Capital%20Level">Capital Level</a> </br>
+<a href="https://github.com/jck666666/QTS/tree/main/Trend%20Line">Trend Line</a> </br>
+<a href="https://github.com/jck666666/QTS/tree/main/SMA">SMA</a> </br>
+<a href="https://github.com/jck666666/QTS/tree/main/Genetic%20Algorithm">Genetic Algorithm for knapsack</a> </br>
+<a href="https://github.com/jck666666/QTS/tree/main/PSO%20Algorithm">PSO Algorithm for |x|</a> </br>

@@ -28,3 +28,6 @@
 - 網路安全：<a href="https://github.com/jck666666/S-DES">S-DES與視覺化介面 </a> </br>
 - 資料庫管理系統導論：<a href="https://github.com/jck666666/DBMS">好。食 </a> </br>
 - 組合語言與系統程式：<a href="https://github.com/jck666666/2-pass-assembler">2 PASS assembler </a></br>
+- 作業系統：<a href="https://github.com/jck666666/2-pass-assembler">2 PASS assembler </a></br>
+- 資訊安全：<a href="https://github.com/jck666666/Row-Col-Transposition-Cipher">Row/Col Transposition Cipher ,  </a>
+<a href="https://github.com/jck666666/Caesar-Cipher"> Caesar Cipher </a></br>

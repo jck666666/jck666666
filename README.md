@@ -31,15 +31,15 @@
 
 ***
 <h3> 【Omni-Objective Optimization Lab】</h3>
-<a href="https://github.com/jck666666/QTS-Circuit">QTS for "Reversible Logic Circuit Synthesis"</a> </br>
-<a href="https://github.com/jck666666/QTS/tree/main/DJIA%20QTS:GQTS">QTS & GQTS for "DJIA"</a> </br>
-<a href="https://github.com/jck666666/QTS/tree/main/QTS%20SMA">QTS for "SMA"</a> </br>
-<a href="https://github.com/jck666666/QTS/tree/main/QTS%20knapsack">QTS for "knapsack" </a> </br>
-<a href="https://github.com/jck666666/QTS/tree/main/Capital%20Level">Capital Level</a> </br>
-<a href="https://github.com/jck666666/QTS/tree/main/Trend%20Line">Trend Line</a> </br>
-<a href="https://github.com/jck666666/QTS/tree/main/SMA">SMA</a> </br>
-<a href="https://github.com/jck666666/QTS/tree/main/Genetic%20Algorithm">Genetic Algorithm for knapsack</a> </br>
-<a href="https://github.com/jck666666/QTS/tree/main/PSO%20Algorithm">PSO Algorithm for |x|</a> </br>
+- <a href="https://github.com/jck666666/QTS-Circuit">QTS for "Reversible Logic Circuit Synthesis"</a> </br>
+- <a href="https://github.com/jck666666/QTS/tree/main/DJIA%20QTS:GQTS">QTS & GQTS for "DJIA"</a> </br>
+- <a href="https://github.com/jck666666/QTS/tree/main/QTS%20SMA">QTS for "SMA"</a> </br>
+- <a href="https://github.com/jck666666/QTS/tree/main/QTS%20knapsack">QTS for "knapsack" </a> </br>
+- <a href="https://github.com/jck666666/QTS/tree/main/Capital%20Level">Capital Level</a> </br>
+- <a href="https://github.com/jck666666/QTS/tree/main/Trend%20Line">Trend Line</a> </br>
+- <a href="https://github.com/jck666666/QTS/tree/main/SMA">SMA</a> </br>
+- <a href="https://github.com/jck666666/QTS/tree/main/Genetic%20Algorithm">Genetic Algorithm for knapsack</a> </br>
+- <a href="https://github.com/jck666666/QTS/tree/main/PSO%20Algorithm">PSO Algorithm for |x|</a> </br>
 
 ***
 <br>

@@ -12,9 +12,11 @@
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+***
 <h3> 【畢業專題】</h3>
 <a href="https://github.com/jck666666/Reversible-Logic-Circuit-Synthesis">利用知識導引之量子啟發式禁忌搜尋演算法解量子可逆電路合成問題</a></br>
 
+***
 <h3>【課程 Project】</h3>
 - 深度學習概論：<a href="https://github.com/jck666666/Time-Series-Forecasting.git">預測臺灣covid-19累積確診人數、死亡人數、康復人數</a></br>
 - 網路安全：<a href="https://github.com/jck666666/S-DES">S-DES與視覺化介面 </a> </br>
@@ -27,7 +29,7 @@
 - 檔案處理與輸出入系統：<a href="https://github.com/jck666666/File-I-O-HW/tree/main/%22Find%20Instruction%22%20in%20LINUX">build the "Find Instruction" in LINUX </a></br>
 - 檔案處理與輸出入系統：<a href="https://github.com/jck666666/File-I-O-HW/tree/main/%22Read:Write%20Speed%22%20Test%20in%20LINUX">"Read/Write Speed" Test in LINUX</a></br>
 
-
+***
 <h3> 【Omni-Objective Optimization Lab】</h3>
 <a href="https://github.com/jck666666/QTS-Circuit">QTS for "Reversible Logic Circuit Synthesis"</a> </br>
 <a href="https://github.com/jck666666/QTS/tree/main/DJIA%20QTS:GQTS">QTS & GQTS for "DJIA"</a> </br>
@@ -39,6 +41,7 @@
 <a href="https://github.com/jck666666/QTS/tree/main/Genetic%20Algorithm">Genetic Algorithm for knapsack</a> </br>
 <a href="https://github.com/jck666666/QTS/tree/main/PSO%20Algorithm">PSO Algorithm for |x|</a> </br>
 
+***
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jck666666&show_icons=true&locale=en&layout=compact" alt="jck666666" /></p>
 <br><br><br><br><br><br><br>

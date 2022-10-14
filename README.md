@@ -20,6 +20,8 @@
 
 
 
-<h3>Project</h3>
-<a href="https://github.com/jck666666/Time-Series-Forecasting.git">利用LSTM預測臺灣在新冠肺炎疫情中的累積確診人數、死亡人數和康復人數</a>
-</br>
+<h3> 畢業專題 － 利用知識導引之量子啟發式禁忌搜尋演算法 解量子可逆電路合成問題</h3>
+<a href="https://github.com/jck666666/Reversible-Logic-Circuit-Synthesis">Reversible Logic Circuit Synthesis</a></br>
+
+<h3>課程 Project</h3>
+<a href="https://github.com/jck666666/Time-Series-Forecasting.git">利用LSTM預測臺灣在新冠肺炎疫情中的累積確診人數、死亡人數和康復人數</a></br>

@@ -28,6 +28,9 @@
 - 網路安全：<a href="https://github.com/jck666666/S-DES">S-DES與視覺化介面 </a> </br>
 - 資料庫管理系統導論：<a href="https://github.com/jck666666/DBMS">好。食 </a> </br>
 - 組合語言與系統程式：<a href="https://github.com/jck666666/2-pass-assembler">2 PASS assembler </a></br>
-- 作業系統：<a href="https://github.com/jck666666/2-pass-assembler">2 PASS assembler </a></br>
-- 資訊安全：<a href="https://github.com/jck666666/Row-Col-Transposition-Cipher">Row/Col Transposition Cipher ,  </a>
-<a href="https://github.com/jck666666/Caesar-Cipher"> Caesar Cipher </a></br>
+- 作業系統：<a href="https://github.com/jck666666/SHELL"> build a shell in Linux </a></br>
+- 作業系統：<a href="https://github.com/jck666666/Bounded-Buffer-Problem">Bounded Buffer Problem </a></br>
+- 資訊安全：<a href="https://github.com/jck666666/Row-Col-Transposition-Cipher">Row/Col Transposition Cipher</a></br>
+- 資訊安全：<a href="https://github.com/jck666666/Caesar-Cipher">Caesar Cipher </a></br>
+- 檔案處理與輸出入系統：<a href="https://github.com/jck666666/File-I-O-HW/tree/main/%22Find%20Instruction%22%20in%20LINUX">build the "Find Instruction" in LINUX </a></br>
+- 檔案處理與輸出入系統：<a href="https://github.com/jck666666/File-I-O-HW/tree/main/%22Read:Write%20Speed%22%20Test%20in%20LINUX">"Read/Write Speed" Test in LINUX</a></br>

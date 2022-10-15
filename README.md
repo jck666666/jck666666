@@ -26,7 +26,7 @@
 - 深度學習概論：<a href="https://github.com/jck666666/Time-Series-Forecasting.git">預測臺灣covid-19累積確診人數、死亡人數、康復人數</a></br>
 - 網路安全：<a href="https://github.com/jck666666/S-DES">S-DES與視覺化介面 </a> </br>
 - 資料庫管理系統導論：<a href="https://github.com/jck666666/DBMS">好。食 </a> </br>
-- 組合語言與系統程式：<a href="https://github.com/jck666666/2-pass-assembler/blob/main/source%20code%20and%20.txt%20file/final%20project.c">2 PASS assembler </a></br>
+- 組合語言與系統程式：<a href="https://github.com/jck666666/2-pass-assembler/tree/main">2 PASS assembler </a></br>
 - 作業系統：<a href="https://github.com/jck666666/SHELL"> build a shell in Linux </a></br>
 - 作業系統：<a href="https://github.com/jck666666/Bounded-Buffer-Problem">Bounded Buffer Problem </a></br>
 - 資訊安全：<a href="https://github.com/jck666666/Row-Col-Transposition-Cipher">Row/Col Transposition Cipher</a></br>

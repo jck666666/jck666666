@@ -19,7 +19,8 @@
 ***
 <h3> 【畢業專題】</h3>
 <a href="https://github.com/jck666666/Reversible-Logic-Circuit-Synthesis">利用知識導引之量子啟發式禁忌搜尋演算法解量子可逆電路合成問題</a></br>
-⇢<a href="https://github.com/HsuHsingYu/Reversible-Logic-Circuit-Synthesis/blob/main/Quantum_final.pdf">（說明文件）</a></br>
+(knowledge navigated quantum-inspired tabu search algorithm for reversible circuit synthesis)</br>
+<a href="https://github.com/HsuHsingYu/Reversible-Logic-Circuit-Synthesis/blob/main/Quantum_final.pdf">⇢（說明文件）</a></br>
 
 ***
 <h3>【課程 Project】</h3>

@@ -24,18 +24,18 @@
 
 ***
 <h3>【Cource】</h3>
-- 深度學習概論：<a href="https://github.com/jck666666/Time-Series-Forecasting.git">Covid-19 Pandemic Prediction</a></br>
-- 網路安全：<a href="https://github.com/jck666666/S-DES">S-DES and GUI </a> </br>
-- 資料庫管理系統導論：<a href="https://github.com/jck666666/DBMS">Gourmet Database </a> </br>
-- 組合語言與系統程式：<a href="https://github.com/jck666666/2-pass-assembler/tree/main">2 PASS assembler </a></br>
-- 作業系統：<a href="https://github.com/jck666666/SHELL">build a shell</a></br>
-- 作業系統：<a href="https://github.com/jck666666/Bounded-Buffer-Problem">Bounded Buffer Problem </a></br>
-- 資訊安全：<a href="https://github.com/jck666666/Row-Col-Transposition-Cipher">Row/Col Transposition Cipher</a></br>
-- 資訊安全：<a href="https://github.com/jck666666/Caesar-Cipher">Caesar Cipher </a></br>
-- 檔案處理與輸出入系統：<a href="https://github.com/jck666666/File-I-O-HW/tree/main/%22Find%20Instruction%22%20in%20LINUX">build the "Find Instruction" in LINUX </a></br>
-- 檔案處理與輸出入系統：<a href="https://github.com/jck666666/File-I-O-HW/tree/main/%22Read:Write%20Speed%22%20Test%20in%20LINUX">"Read/Write Speed" Test in LINUX</a></br>
-- 資料結構：<a href="https://github.com/jck666666/Data-Structure">Homework </a></br>
-- 嵌入式系統：<a href="https://github.com/jck666666/automatic-watering-device">automatic waterer </a></br>
+- Deep Learning：<a href="https://github.com/jck666666/Time-Series-Forecasting.git">Covid-19 Pandemic Prediction</a></br>
+- Internet Security：<a href="https://github.com/jck666666/S-DES">S-DES and GUI </a> </br>
+- Database Management Systems：<a href="https://github.com/jck666666/DBMS">Gourmet Database </a> </br>
+- Assembly Language and System Programs：<a href="https://github.com/jck666666/2-pass-assembler/tree/main">2 PASS assembler </a></br>
+- Operating System：<a href="https://github.com/jck666666/SHELL">build a shell</a></br>
+- Operating System：<a href="https://github.com/jck666666/Bounded-Buffer-Problem">Bounded Buffer Problem </a></br>
+- Information Security：<a href="https://github.com/jck666666/Row-Col-Transposition-Cipher">Row/Col Transposition Cipher</a></br>
+- Information Security：<a href="https://github.com/jck666666/Caesar-Cipher">Caesar Cipher </a></br>
+- File Processing and I/O System：<a href="https://github.com/jck666666/File-I-O-HW/tree/main/%22Find%20Instruction%22%20in%20LINUX">build the "Find Instruction" in LINUX </a></br>
+- File Processing and I/O System：<a href="https://github.com/jck666666/File-I-O-HW/tree/main/%22Read:Write%20Speed%22%20Test%20in%20LINUX">"Read/Write Speed" Test in LINUX</a></br>
+- Data Structure：<a href="https://github.com/jck666666/Data-Structure">Homework </a></br>
+- Embedded Systems：<a href="https://github.com/jck666666/automatic-watering-device">automatic waterer </a></br>
 
 
 

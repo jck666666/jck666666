@@ -25,7 +25,7 @@
 ***
 <h3>【Course】</h3>
 - Deep Learning：<a href="https://github.com/jck666666/Time-Series-Forecasting.git">Covid-19 Pandemic Prediction</a></br>
-- Internet Security：<a href="https://github.com/jck666666/S-DES">S-DES and GUI </a> </br>
+- Internet Security：<a href="https://github.com/jck666666/S-DES">GUI of S-DES </a> </br>
 - Database Management Systems：<a href="https://github.com/jck666666/DBMS">Gourmet Database </a> </br>
 - Assembly Language and System Programs：<a href="https://github.com/jck666666/2-pass-assembler/tree/main">2 PASS assembler </a></br>
 - Operating System：<a href="https://github.com/jck666666/SHELL">build a shell</a></br>

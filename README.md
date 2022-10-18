@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Jessica. 
+### Hi there 👋 My name is Yu Chen. 
 👩🏻‍💻 I major in computer science.
 <br>
 🌱 I’m currently learning **Quantum Information Science, Heuristic Algorithm**.

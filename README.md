@@ -23,7 +23,7 @@
 <a href="https://github.com/jck666666/Reversible-Logic-Circuit-Synthesis/blob/main/SMC_KNQTS.pdf">⇢（Project Presentation）</a></br>
 
 ***
-<h3>【Cource】</h3>
+<h3>【Course】</h3>
 - Deep Learning：<a href="https://github.com/jck666666/Time-Series-Forecasting.git">Covid-19 Pandemic Prediction</a></br>
 - Internet Security：<a href="https://github.com/jck666666/S-DES">S-DES and GUI </a> </br>
 - Database Management Systems：<a href="https://github.com/jck666666/DBMS">Gourmet Database </a> </br>

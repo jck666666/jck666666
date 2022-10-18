@@ -17,17 +17,16 @@
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.java.com/zh-TW/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ***
-<h3> 【畢業專題】</h3>
-<a href="https://github.com/jck666666/Reversible-Logic-Circuit-Synthesis">利用知識導引之量子啟發式禁忌搜尋演算法解量子可逆電路合成問題</a></br>
-(knowledge navigated quantum-inspired tabu search algorithm for reversible circuit synthesis)</br>
-<a href="https://github.com/HsuHsingYu/Reversible-Logic-Circuit-Synthesis/blob/main/Quantum_final.pdf">⇢（程式碼說明）</a></br>
-<a href="https://github.com/jck666666/Reversible-Logic-Circuit-Synthesis/blob/main/SMC_KNQTS.pdf">⇢（專題介紹）</a></br>
+<h3> 【Capstone Project】</h3>
+<a href="https://github.com/jck666666/Reversible-Logic-Circuit-Synthesis">Knowledge Navigated Quantum-inspired Tabu Search Algorithm For Reversible Circuit Synthesis</a></br>
+<a href="https://github.com/HsuHsingYu/Reversible-Logic-Circuit-Synthesis/blob/main/Quantum_final.pdf">⇢（Code Description）</a></br>
+<a href="https://github.com/jck666666/Reversible-Logic-Circuit-Synthesis/blob/main/SMC_KNQTS.pdf">⇢（Project Presentation）</a></br>
 
 ***
-<h3>【課程 Project】</h3>
-- 深度學習概論：<a href="https://github.com/jck666666/Time-Series-Forecasting.git">預測臺灣covid-19累積確診人數、死亡人數、康復人數</a></br>
-- 網路安全：<a href="https://github.com/jck666666/S-DES">S-DES與視覺化介面 </a> </br>
-- 資料庫管理系統導論：<a href="https://github.com/jck666666/DBMS">好。食 </a> </br>
+<h3>【Cource】</h3>
+- 深度學習概論：<a href="https://github.com/jck666666/Time-Series-Forecasting.git">Covid-19 Pandemic Prediction</a></br>
+- 網路安全：<a href="https://github.com/jck666666/S-DES">S-DES and GUI </a> </br>
+- 資料庫管理系統導論：<a href="https://github.com/jck666666/DBMS">Gourmet Database </a> </br>
 - 組合語言與系統程式：<a href="https://github.com/jck666666/2-pass-assembler/tree/main">2 PASS assembler </a></br>
 - 作業系統：<a href="https://github.com/jck666666/SHELL">build a shell</a></br>
 - 作業系統：<a href="https://github.com/jck666666/Bounded-Buffer-Problem">Bounded Buffer Problem </a></br>

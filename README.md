@@ -36,7 +36,7 @@
 - 檔案處理與輸出入系統：<a href="https://github.com/jck666666/File-I-O-HW/tree/main/%22Find%20Instruction%22%20in%20LINUX">build the "Find Instruction" in LINUX </a></br>
 - 檔案處理與輸出入系統：<a href="https://github.com/jck666666/File-I-O-HW/tree/main/%22Read:Write%20Speed%22%20Test%20in%20LINUX">"Read/Write Speed" Test in LINUX</a></br>
 - 資料結構：<a href="https://github.com/jck666666/Data-Structure">Homework </a></br>
-- 嵌入式系統：<a href="https://github.com/jck666666/automatic-watering-device">偵測濕度自動澆花 </a></br>
+- 嵌入式系統：<a href="https://github.com/jck666666/automatic-watering-device">automatic waterer </a></br>
 
 
 

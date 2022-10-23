@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Yu Chen. 
 👩🏻‍💻 I major in computer science.
 <br>
-🌱 I’m currently learning **Quantum Information Science, Heuristic Algorithm**.
+🌱 I’m currently learning **Quantum Information Science, Heuristic Algorithm, Artificial Intelligence**.
 <br>
 📫 How to reach me: **jessica53164@gmail.com**
 

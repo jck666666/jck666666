@@ -24,6 +24,7 @@
 
 ***
 <h3>【Course】</h3>
+- Efficient AI Model Design for Machine Learning and Inference：<a href="https://github.com/jck666666/Efficient-Age-Prediction-for-Targeted-Advertising-Using-Knowledge-Distillation">Efficient Age Prediction for Targeted Advertising Using Knowledge Distillation</a></br
 - Deep Learning：<a href="https://github.com/jck666666/Time-Series-Forecasting.git">Covid-19 Pandemic Prediction</a></br>
 - Internet Security：<a href="https://github.com/jck666666/S-DES">GUI of S-DES </a> </br>
 - Database Management Systems：<a href="https://github.com/jck666666/DBMS">Gourmet Database </a> </br>
